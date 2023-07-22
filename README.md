@@ -43,7 +43,7 @@
 ![GTM](https://img.shields.io/badge/-Google_Tag_Manager-%23000000?style=plastic&logo=googletagmanager&color=4285F3)
 ![GA4](https://img.shields.io/badge/-Google_Analytics_4-%23000000?style=plastic&logo=googleanalytics&color=000)
 
-### Skills
+## Skills
 * Frontend Development ![](https://geps.dev/progress/90?dangerColor=9C3587&warningColor=E53F71&successColor=3F1651)
 * Marketing development ![](https://geps.dev/progress/70?dangerColor=9C3587&warningColor=E53F71&successColor=3F1651)
 * Scrum ![](https://geps.dev/progress/60?dangerColor=9C3587&warningColor=E53F71&successColor=3F1651)
